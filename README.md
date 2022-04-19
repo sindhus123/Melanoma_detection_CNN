@@ -17,7 +17,7 @@ We need to check the class ditribution to improve our accuracy rate
 * On checking class imbalance, Seborrheic keratosis has less the 20 numbers and Melanoma and pigmented benign keratosis has close to 100 samples
 * Class imbalance rectified by adding more images to maintain class balance
 * Model trained using augmented data and batch Normalisation and the accuracy improved to 82% but the validation accuracy is still at 62% indicating overfit issue.
-* By further adding layers in the network and hyper parameter tuning
+* By further adding layers in the network and hyper parameter tuning the validation accuracy can be improved
 
 ## Contact
 Created by [@sindhus123] - feel free to contact me!
